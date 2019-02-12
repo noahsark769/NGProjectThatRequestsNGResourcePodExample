@@ -10,7 +10,6 @@
 		974F0D719C68D9A323373DB1 /* Pods_NGProjectThatRequestsNGResourcePodExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A93300047E749A8754E7627 /* Pods_NGProjectThatRequestsNGResourcePodExample.framework */; };
 		D0627C6F221373390031BDDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0627C6E221373390031BDDC /* AppDelegate.swift */; };
 		D0627C71221373390031BDDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0627C70221373390031BDDC /* ViewController.swift */; };
-		D0627C74221373390031BDDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0627C72221373390031BDDC /* Main.storyboard */; };
 		D0627C762213733A0031BDDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0627C752213733A0031BDDC /* Assets.xcassets */; };
 		D0627C792213733A0031BDDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0627C772213733A0031BDDC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -22,7 +21,6 @@
 		D0627C6B221373390031BDDC /* NGProjectThatRequestsNGResourcePodExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NGProjectThatRequestsNGResourcePodExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0627C6E221373390031BDDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0627C70221373390031BDDC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D0627C73221373390031BDDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D0627C752213733A0031BDDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0627C782213733A0031BDDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0627C7A2213733A0031BDDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -54,7 +52,6 @@
 				31C79EEAED5725649F1F724F /* Pods-NGProjectThatRequestsNGResourcePodExample.debug.xcconfig */,
 				10C49D2DF0C262942ED1864F /* Pods-NGProjectThatRequestsNGResourcePodExample.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -81,7 +78,6 @@
 			children = (
 				D0627C6E221373390031BDDC /* AppDelegate.swift */,
 				D0627C70221373390031BDDC /* ViewController.swift */,
-				D0627C72221373390031BDDC /* Main.storyboard */,
 				D0627C752213733A0031BDDC /* Assets.xcassets */,
 				D0627C772213733A0031BDDC /* LaunchScreen.storyboard */,
 				D0627C7A2213733A0031BDDC /* Info.plist */,
@@ -151,7 +147,6 @@
 			files = (
 				D0627C792213733A0031BDDC /* LaunchScreen.storyboard in Resources */,
 				D0627C762213733A0031BDDC /* Assets.xcassets in Resources */,
-				D0627C74221373390031BDDC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,14 +212,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D0627C72221373390031BDDC /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D0627C73221373390031BDDC /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		D0627C772213733A0031BDDC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
