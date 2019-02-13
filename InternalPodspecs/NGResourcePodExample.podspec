@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'NGResourcePodExample'
-  s.version = '1.0.0'
+  s.version = '1.1.0'
   s.summary = 'A pod which contains a message.'
   s.description = 'A pod which contains a message.'
   s.license = "Private"
