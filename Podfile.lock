@@ -1,5 +1,5 @@
 PODS:
-  - NGResourcePodExample (1.0.0)
+  - NGResourcePodExample (1.1.0)
 
 DEPENDENCIES:
   - NGResourcePodExample (from `InternalPodspecs/NGResourcePodExample.podspec`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :podspec: InternalPodspecs/NGResourcePodExample.podspec
 
 SPEC CHECKSUMS:
-  NGResourcePodExample: 08b4adf73a95e5720518cbcf08ef54acaa142082
+  NGResourcePodExample: d8f454470eec14a290ad263ade2579c4fe99f047
 
 PODFILE CHECKSUM: d1b048b88daf5e082a8fdc43548ca00f34548260
 
